@@ -3,9 +3,8 @@
   - Front End Software Development
   - Software Engineering
   - Visual / Web Design
-- 🌱 I’m currently learning 
-  - JavaScript / JavaScript web frameworks
-  - Data Visualization
+  - Web Accessibility
+
 - 📫 How to reach me 
   - Connect with me on [LinkedIn](http://www.linkedin.com/in/drewspooner)! 
 
